@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to edit the TimeSpan field using ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3317/)**
+<!-- run online end -->
 
 
 <p>ASPxGridView is able to create an editor for the DateTime field, but not for the TimeSpan field. Since the TimeSpan data type represents a time interval of an appropriate string <a href="http://msdn.microsoft.com/en-us/library/1ecy8h51.aspx"><u>format</u></a>, it becomes possible to edit the TimeSpan data type using the textbox column and <a href="http://documentation.devexpress.com/#AspNet/CustomDocument8171"><u>Mask</u></a>.<br />
